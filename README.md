@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mariaje
 - 👀 I’m interested in web 3.0
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning something
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
